@@ -10,7 +10,7 @@ public class HelloMain {
 
 		//IHelloService helloService = new HelloService();
 		HelloController controller = new HelloController();
-		controller.hello("ȫ�浿");
+		controller.hello("홍길동");
 	}
 
 }
